@@ -13,6 +13,7 @@
 
 # Setup
 * Clone repo from github and install the required packages from uv
+* Add a .env file with `GEMINI_API_KEY='gemini_key_should_be_placed_here'`
 
 # Configuration
 * Read config.py file to see if all the value there are suitable for your use:
